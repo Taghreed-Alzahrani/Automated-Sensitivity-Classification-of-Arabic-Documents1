@@ -14,6 +14,8 @@ This project compares three Arabic NLP models for automatically classifying Arab
 | Secret     | سري         | Confidential |
 | Top Secret | سري للغاية | Highly sensitive |
 
+>  If GitHub fails to render any notebook, view all notebooks here: [nbviewer](https://nbviewer.org/github/Taghreed-Alzahrani/Automated-Sensitivity-Classification-of-Arabic-Documents./tree/main/)
+
 ## Models Compared
 
 | Model            | Type                 | Approach |
